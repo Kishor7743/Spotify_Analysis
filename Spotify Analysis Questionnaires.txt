@@ -1,0 +1,8 @@
+Spotify Analysis Questionnaires:
+
+1. Music Analysis: Explore patterns in audio features to understand trends and preferences in popular songs.
+2. Platform comparison: Compare the song's popularity across different music platforms.
+3. Artist impact: Analyze how artist involvement and attributes relate to a song's success.
+4. Temporal trends: Identify any shifts in music attributes and preferences over time.
+5. Cross-platform presence: Investigate how songs perform across different streaming services.
+6. Most Streamed: Top 10 most streamed songs of 2023.
